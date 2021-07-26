@@ -22,7 +22,9 @@ li.nav-item {
     padding-right: 55px;
 }
 
-
+.navbar{
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+}
 
 /* services-section */
 .section-title::before{
@@ -62,6 +64,18 @@ transform: translatey(-3px);
     transform: translatey(10px);
 }
 
+#footer{
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+}
+
+.footer-logo{
+    margin-top: -90px;
+    position: absolute;
+}
+.footer-text{
+    position:relative ;
+    margin-top: 70px;
+}
 
 
 
