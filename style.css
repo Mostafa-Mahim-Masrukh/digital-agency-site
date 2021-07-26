@@ -48,6 +48,13 @@ transform: translatey(-3px);
 }
 
 
+.testimonials{
+    border-left: 4px solid #7b1798;
+}
+.testimonials img{
+    border-radius: 50%;
+}
+
 
 
 
