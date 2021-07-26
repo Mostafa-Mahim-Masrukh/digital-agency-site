@@ -1,0 +1,23 @@
+/* theme-font-size */
+.header-line{
+    font-size: 55px;
+}
+.paragraph-line{
+    font-size: 16px;
+}
+
+/* navbar-style */
+#header{
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+}
+
+li.nav-item {
+    padding-right: 55px;
+}
+
+
+
+
+
+
+
