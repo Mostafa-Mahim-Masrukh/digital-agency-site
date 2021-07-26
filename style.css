@@ -6,6 +6,13 @@
     font-size: 16px;
 }
 
+.theme-btn{
+    background-image: linear-gradient(to right,#a517ba,#5f1782);
+    border: none;
+    
+}
+
+
 /* navbar-style */
 #header{
     background-image: linear-gradient(to right,#a517ba,#5f1782);
@@ -14,6 +21,32 @@
 li.nav-item {
     padding-right: 55px;
 }
+
+
+
+/* services-section */
+.section-title::before{
+content:'';
+background:#a517ba;
+height: 5px;
+width: 200px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+transform: translatey(60px);
+}
+.section-title::after{
+content:'';
+background:#a517ba;
+height: 10px;
+width: 50px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 40px;
+display: block;
+transform: translatey(-3px);
+}
+
 
 
 
